@@ -7,10 +7,10 @@ Included are the following pre-configured tools:
 - TypeScript
 - tRPC
 - Tailwind CSS
+- Spline
+- Threlte (+ extras)
 - Vite
 - vite-imagetools
-- Prettier / ESLint
 - Svelte Headless-UI
 - Zod
-- Threlte (+ extras)
-- Spline
+- Prettier / ESLint
